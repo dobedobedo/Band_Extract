@@ -1,8 +1,9 @@
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 """
 Created on Mon May 15 06:58:29 2017
 
-@author: o0331
+@author: Yu-Hsuan Tu
 """
 
 import os

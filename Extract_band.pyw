@@ -8,7 +8,7 @@ Created on Mon May 15 06:58:29 2017
 
 import os
 import numpy as np
-import gdal
+from osgeo import gdal
 from osgeo import gdal_array
 import tkinter as tk
 from tkinter.filedialog import askopenfilename
